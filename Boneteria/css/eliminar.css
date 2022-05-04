@@ -1,0 +1,21 @@
+#tituloArticulo{
+    font-size: 36px;
+}
+
+.card-body{
+    background-color: lightblue;
+}
+
+#izquierda{
+    padding-left: 6%; 
+    padding-right: 3%;
+}
+
+#derecha{
+    padding-left: 3%; 
+    padding-right: 6%;
+}
+
+label{
+    font-size: 18px;
+}
