@@ -1,0 +1,46 @@
+header, footer{    
+    background-color: lightblue;
+}
+
+
+.bg-prim{
+    background-color: lightblue;
+    color: white;
+}
+.bg-second{
+    background-color: lightblue;
+    color: lightblue;
+}
+
+.card-second{
+    background-color: lightblue;
+    color: lightblue;
+    border-color: lightblue;
+}
+
+body{
+    background-color: lightblue;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    padding-top: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 1%;
+}
+
+#detalles{
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+
+
+.responsive-iframe {
+    width: 100%;
+    height: auto;
+}
